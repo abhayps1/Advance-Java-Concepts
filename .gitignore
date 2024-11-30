@@ -1,0 +1,12 @@
+/.metadata/
+/bin/
+
+# Ignore .classpath files in all directories
+**/.classpath
+
+# Ignore .project files in all directories
+**/.project
+
+# Ignore .settings folders in all directories
+**/.settings/
+
